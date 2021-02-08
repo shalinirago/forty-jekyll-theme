@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="two" class="spotlights">
 	<section>
-		<div class="4u"><span class="image fit"><img src="{% assets/images/pic08.jpg %}" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
+		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
