@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Course Development and Design
-description: Designed a new course for the ECE Department called Computational Engineering
+title: Interpreting Paintings
+description: Interactive Experiment to explore the creative possibilities of computers
 image: assets/images/pic03.jpg 
 nav-menu: true
 ---
@@ -16,11 +16,12 @@ nav-menu: true
 	<div class="inner">
 		<div class="inner"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" data-position="top center" /> </span></div> 
 		<header class="major">
-			<h1>Computational Engineering <a href="#" class="icon fa-github"><span class="label">Github</span></a></h1>
+			<h1>Interpreting Paintings <a href="https://sites.google.com/vt.edu/thewolverine/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h1>
 		</header>
 		<div class="box">
 			<p>Explain: STAR + Accomplishments</p>
-			<p>AirSim</p>
+			<p>Ongoing work</p>
+            <p>Collaboration work</p>
 		</div>
 		<samp>Skills/Tools</samp>
 	</div>

@@ -1,6 +1,6 @@
 ---
 title: Other Projects
-layout: otherprojects
+layout: projects
 description: 'A Comprehensive Collections of Projects'
 image: assets/images/pic07.jpg # Include a good project based image
 nav-menu: true
@@ -70,6 +70,21 @@ nav-menu: true
 				<samp>List skills</samp>	
 			</div>
 		</div><!--Add appropriate Image-->
+	</section>
+	<!--Porfolio-->
+	<section>
+		<div class="inner"><span class="image fit"><img src="assets/images/pic11.jpg" alt="" data-position="center center" /> </span></div> <!--Add appropriate portfolio image-->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>Technical Portfolio</h2>
+				</header>
+				<div class="box">
+				<p>STAR method</p>
+				</div>
+				<samp>List skills</samp>	
+			</div>
+		</div>
 	</section>
 </section>
 
