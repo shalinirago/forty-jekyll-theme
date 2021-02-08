@@ -4,7 +4,6 @@ subtitle:
 email: rshalini@vt.edu.com
 description: Master's in Computer Engineering from Virginia Tech with a passion for Machine Learning and Software Development
 baseurl: "/" # the subpath of your site, e.g. /blog
-theme: jekyll-theme-onepage
 url: # the base hostname & protocol for your site
 author:
 street_address: 
@@ -15,7 +14,7 @@ country:
 phone: 
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
