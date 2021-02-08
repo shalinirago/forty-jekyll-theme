@@ -31,14 +31,15 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major"> <!--Include Github link-->
-					<<h2>Kaggle's Categorical Challenge <a href="#" class="icon fa-github"><span class="label">Github</span></a></h2>
+					<h2>Kaggle's Categorical Challenge <a href="#" class="icon fa-github"><span class="label">Github</span></a></h2>
 				</header>
 				<div class="box">
 				<p>STAR method</p>
 				</div>
 				<samp>List skills</samp>	
 			</div>
-		<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="center center" /> </span></div> <!--Add appropriate Kaggle Image-->
+			<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="center center" /> </span></div>
+		</div> <!--Add appropriate Kaggle Image-->
 	</section>
 	<!--Deep Q Network-->
 	<section>
@@ -67,7 +68,8 @@ nav-menu: true
 				</div>
 				<samp>List skills</samp>	
 			</div>
-		<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="center center" /> </span></div> <!--Add appropriate Image-->
+			<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="center center" /> </span></div> 
+		</div><!--Add appropriate Image-->
 	</section>
 </section>
 
