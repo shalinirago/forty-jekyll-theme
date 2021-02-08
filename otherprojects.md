@@ -10,32 +10,16 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Kaggle's Categorical Challenge <a href="#" class="icon fa-github"><span class="label">Github</span></a> </h2>
-		</header>
-		<div class="box">
-			<p>STAR - task, action, result.</p>
-		</div>
-	</div>
-</section>
-
-<!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" /> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Deep Learning for Android <a href="https://sites.google.com/vt.edu/slixstream/home?authuser=0"><i class="fa fa-external-link"></i></a></h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>CV App using Tensorflow lite: STAR method again</p>
+				<samp>List skills</samp>	
 			</div>
 		</div>
 	</section>
@@ -72,6 +56,21 @@ nav-menu: true
 		</div>
 	</section>
 </section>
+
+<!-- Kaggle DA -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Kaggle's Categorical Challenge <a href="#" class="icon fa-github"><span class="label">Github</span></a> </h2>
+		</header>
+		<div class="box">
+			<p>STAR - task, action, result.</p>
+		</div>
+		<samp>Data Processing  Jupyter  Python  scikit-learn</samp>
+	</div>
+</section>
+
+
 
 <!-- Three -->
 <section id="three">
