@@ -12,11 +12,11 @@ nav-menu: true
 <!-- One -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" /> <!--Add appropriate image/gif (CV)-->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Deep Learning for Android <a href="https://sites.google.com/vt.edu/slixstream/home?authuser=0"><i class="fa fa-external-link"></i></a></h3>
+					<h3>Deep Learning for Android <a href="https://sites.google.com/vt.edu/slixstream/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h3>
 				</header>
 				<p>CV App using Tensorflow lite: STAR method again</p>
 				<samp>List skills</samp>	
