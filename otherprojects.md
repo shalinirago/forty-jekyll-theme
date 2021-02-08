@@ -13,12 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Kaggle's Categorical Challenge</h2>
+			<h2>Kaggle's Categorical Challenge <a href="#" class="icon fa-github"><span class="label">Github</span></a> </h2>
 		</header>
 		<div class="box">
 			<p>STAR - task, action, result.</p>
 		</div>
-		<a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
 	</div>
 </section>
 
