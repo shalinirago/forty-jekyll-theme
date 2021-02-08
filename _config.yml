@@ -15,10 +15,9 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 4
 
 # social settings
-500px_url:
 github_url: https://www.github.com/shalinirago
 linkedin_url: https://www.linkedin.com/in/shaliniragothaman
 twitter_url: https://twitter.com/shalinirago
