@@ -6,6 +6,7 @@ link: https://sites.google.com/vt.edu/slixstream/home?authuser=0
 link_class: fa fa-github
 image: assets/images/pic03.jpg 
 nav-menu: true
+order: 3
 ---
 
 <!-- Main -->

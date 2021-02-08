@@ -4,6 +4,7 @@ title: Interpreting Paintings
 description: Interactive Experiment to explore the creative possibilities of computers
 image: assets/images/pic03.jpg 
 nav-menu: true
+order: 2
 ---
 
 <!-- Main -->

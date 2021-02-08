@@ -4,6 +4,7 @@ layout: projects
 description: 'A Comprehensive Collections of Projects'
 image: assets/images/pic07.jpg # Include a good project based image
 nav-menu: true
+order: 4
 ---
 
 <!-- Main -->

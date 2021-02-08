@@ -4,6 +4,7 @@ title: Waste Segregation
 description: Co-Invented a Patent Published Project - Undergraduate Degree Capstone <br /> Tech Stack
 image: assets/images/pic07.jpg 
 nav-menu: true
+order: 1
 ---
 
 <!-- Main -->
