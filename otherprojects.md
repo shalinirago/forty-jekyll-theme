@@ -28,6 +28,7 @@ nav-menu: true
 	</section> 
 	<!--Kaggle's Categorical Challenge-->
 	<section>
+			<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="top center" /> </span></div>
 		<div class="content">
 			<div class="inner">
 				<header class="major"> <!--Include Github link-->
@@ -37,9 +38,8 @@ nav-menu: true
 				<p>STAR method</p>
 				</div>
 				<samp>List skills</samp>	
-			</div>
-			<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="center center" /> </span></div>
-		</div> <!--Add appropriate Kaggle Image-->
+			</div> <!--Add appropriate Kaggle Image-->
+		</div>
 	</section>
 	<!--Deep Q Network-->
 	<section>
@@ -47,7 +47,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<<h2>Deep Q Network <a href="https://sites.google.com/vt.edu/thewolverine/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h2>
+					<h2>Deep Q Network <a href="https://sites.google.com/vt.edu/thewolverine/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h2>
 				</header>
 				<div class="box">
 				<p>STAR method</p>
@@ -58,17 +58,17 @@ nav-menu: true
 	</section>
 	<!--Question Answering System-->
 	<section>
+		<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="top center" /> </span></div> 
 		<div class="content">
 			<div class="inner">
 				<header class="major"> <!--Include Github link-->
-					<<h2>VQA System <a href="#" class="icon fa-github"><span class="label">Github</span></a></h2>
+					<h2>VQA System <a href="#" class="icon fa-github"><span class="label">Github</span></a></h2>
 				</header>
 				<div class="box">
 				<p>STAR method</p>
 				</div>
 				<samp>List skills</samp>	
 			</div>
-			<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="center center" /> </span></div> 
 		</div><!--Add appropriate Image-->
 	</section>
 </section>
