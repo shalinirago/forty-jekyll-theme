@@ -1,10 +1,11 @@
 ---
 layout: projects
-title: Course Development and Design
-description: Designed a new course for the ECE Department called Computational Engineering
-link: https://sites.google.com/vt.edu/slixstream/home?authuser=0
+title: Drones' Course Design 
+description: Designed a new course named Computational Engineering for the ECE Department @Virginia Tech <br /> 
+skills: C++, Microsoft AirSim, DJI Drones, UDP
+link: https://github.com/shalinirago/DJITello-Cpp
 link_class: fa fa-github
-image: assets/images/pic03.jpg 
+image: assets/images/tello.jpeg 
 nav-menu: true
 order: 3
 ---
@@ -12,19 +13,22 @@ order: 3
 <!-- Main -->
 <div id="main" class="alt">
 <div class="inner">
-<h3>Blockquote</h3>
-<blockquote>Include a small snippet summarizing the project.</blockquote>
+	<blockquote>Designed an exciting new course based on simulated and DJI Tello Drones</blockquote>
 </div>
 
-<section id="two" class="spotlights">
-	<div class="inner"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
-	<div class="content">
-			<div class="inner">
-				<div class="box">
-				<p>STAR method</p>
-				</div>
-				<samp>List skills</samp>	
-			</div>
+<section id="one">
+	<div class="inner">
+		<h4>Left &amp; Right</h4>
+		<p><span class="image left"><img src="link assets/images/tello_desc.jpg" alt="" /></span>
+		<div class="6u 12u$(small)">
+		<ul>
+			<li>S</li>
+			<li>T</li>
+			<li>A</li>
+			<li>R</li>
+		</ul>
+		</p>
+		<samp>Software Tools Used: </samp>
 	</div>
-</section> 
+</section>
 </div>
