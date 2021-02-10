@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Drones' Course Design 
+title: Course Design with the DJI Tello
 description: Designed a new course named Computational Engineering for the ECE Department @Virginia Tech <br /> 
 skills: C++, Microsoft AirSim, DJI Drones, UDP
 link: https://github.com/shalinirago/DJITello-Cpp
@@ -13,22 +13,19 @@ order: 3
 <!-- Main -->
 <div id="main" class="alt">
 <div class="inner">
-	<blockquote>Designed an exciting new course to based simulated and DJI Tello Drones</blockquote>
+	<blockquote>Designed an exciting new Software and Object Orient Design course with the help of Microsoft AirSim and DJI Tello Drones 
+	<code>C++, Microsoft AirSim, UDP, Socket Programming</code>
+	</blockquote>
 </div>
 
-<section id="one">
-	<div class="inner">
-		<h4>Left &amp; Right</h4>
-		<p><span class="image left"><img src="link assets/images/tello_desc.jpg" alt="" /></span>
-		<div class="6u 12u$(small)">
+<div class="inner">
+		<p><span class="image left"><img src="link assets/images/tello_desc.gif" alt="" /></span>
 		<ul>
 			<li>While courses exist that teach software implementations, a holistic teaching method that explains the design methodologies to be undertaken before diving into writing code is a rare find</li>
-			<li>Over the course </li>
-			<li>A</li>
-			<li>R</li>
+			<li>The goal of the course was to emphasise on problem solving tasks before rushing to execution methods while teaching basic OOPs concepts and critical thinking in a fun and exciting manner</li>
+			<li>Designed C++ client-server socket programming APIs for students to use for their course projects to control simulated drones on Microsoft AirSim and deployed the APIs to control DJI Tello Drones</li>
 		</ul>
-		</p>
-		<samp>Software Tools Used: </samp>
-	</div>
-</section>
+		</p>		
+</div>
+
 </div>
