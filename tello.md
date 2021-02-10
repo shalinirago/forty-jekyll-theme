@@ -19,7 +19,7 @@ order: 3
 </div>
 
 <div class="inner">
-		<!--<p><span class="image left"><img src="link assets/images/tello_desc.gif" alt="" /></span>-->
+		<p><span class="image left"><img src="https://github.com/shalinirago/portfolio/main/tello_desc.gif" alt="" /></span></p>
 		<ul>
 			<li>While courses exist that teach software implementations, a holistic teaching method that explains the design methodologies to be undertaken before diving into writing code is a rare find</li>
 			<li>The goal of the course was to emphasise on problem solving tasks before rushing to execution methods while teaching basic OOPs concepts and critical thinking in a fun and exciting manner</li>
