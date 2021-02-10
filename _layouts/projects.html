@@ -23,9 +23,9 @@
 
                 </header>
                 <div class="content">
-
-                    {{ page.description }}
-
+                    <blockquote>{{ page.description }} <br />
+                        <code>{{% if page.skills %}} {{ page.skills }}</code>
+                        </blockquote>
                 </div>
             </div>
         </section>

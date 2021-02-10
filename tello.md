@@ -1,7 +1,8 @@
 ---
 layout: projects
 title: Course Design with the DJI Tello
-description: Designed a new course named Computational Engineering for the ECE Department @Virginia Tech <br /> 
+tile-description: Designed a new course named Computational Engineering for the ECE Department @Virginia Tech <br /> 
+description: Designed an exciting new Software and Object Orient Design course with the help of Microsoft AirSim and DJI Tello Drones
 skills: C++, Microsoft AirSim, DJI Drones, UDP
 link: https://github.com/shalinirago/DJITello-Cpp
 link_class: fa fa-github
@@ -12,15 +13,12 @@ order: 3
 
 <!-- Main -->
 <div id="main" class="alt">
-<div class="inner">
-	<blockquote>Designed an exciting new Software and Object Orient Design course with the help of Microsoft AirSim and DJI Tello Drones <br />
-	<code>C++, Microsoft AirSim, UDP, Socket Programming</code>
-	</blockquote>
-</div>
 <section id = "two" class="spotlights">
 	<section>
 	<div class="inner">
+	<span class="image fit">
 		<img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/tello_desc.gif" alt="" data-position="center center" />
+	</span>
 	</div> <!--Add appropriate image/gif (CV)--> <!-- -->
 		<div class="content">
 			<div class="inner">
