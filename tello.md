@@ -17,9 +17,9 @@ order: 3
 	<code>C++, Microsoft AirSim, UDP, Socket Programming</code>
 	</blockquote>
 </div>
-<section>
-	<div class="inner"><span class="image fit"><img src="assets/images/tello.jpg" alt="" data-position="center center" /></span>
-	</div> <!-- -->
+<section id = "two" class="spotlights">
+	<section>
+	<div class="inner"><span class="image fit"><img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" title="Databay showcase gif" width="500" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)--> <!-- -->
 		<div class="content">
 			<div class="inner">
 				<div class="box">
@@ -31,6 +31,7 @@ order: 3
 			    </div>	
 		</div>
 	</div>
+	</section>
 </section> 
 
 </div>
