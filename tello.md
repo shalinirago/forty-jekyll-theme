@@ -19,7 +19,9 @@ order: 3
 </div>
 <section id = "two" class="spotlights">
 	<section>
-	<div class="inner"><span class="image fit"><img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" title="Databay showcase gif" width="500" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)--> <!-- -->
+	<div class="inner">
+		<img src="https://github.com/shalinirago/portfolio/blob/main/tello_desc.gif" width="500" alt="" data-position="center center" />
+	</div> <!--Add appropriate image/gif (CV)--> <!-- -->
 		<div class="content">
 			<div class="inner">
 				<div class="box">
