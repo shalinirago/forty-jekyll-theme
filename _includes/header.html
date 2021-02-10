@@ -17,7 +17,7 @@
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		{% assign pages = site.html_pages | where_exp: "item", "item.show_tile != false" | sort:"order" }
+		<!--{% assign pages = site.html_pages | where_exp: "item", "item.show_tile != false" | sort:"order" }-->
 		{% for page in pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>

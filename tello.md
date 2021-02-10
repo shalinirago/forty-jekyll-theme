@@ -13,7 +13,7 @@ order: 3
 <!-- Main -->
 <div id="main" class="alt">
 <div class="inner">
-	<blockquote>Designed an exciting new course based on simulated and DJI Tello Drones</blockquote>
+	<blockquote>Designed an exciting new course to based simulated and DJI Tello Drones</blockquote>
 </div>
 
 <section id="one">
@@ -22,8 +22,8 @@ order: 3
 		<p><span class="image left"><img src="link assets/images/tello_desc.jpg" alt="" /></span>
 		<div class="6u 12u$(small)">
 		<ul>
-			<li>S</li>
-			<li>T</li>
+			<li>While courses exist that teach software implementations, a holistic teaching method that explains the design methodologies to be undertaken before diving into writing code is a rare find</li>
+			<li>Over the course </li>
 			<li>A</li>
 			<li>R</li>
 		</ul>
