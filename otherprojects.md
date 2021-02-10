@@ -14,7 +14,7 @@ order: 4
 <section id="two" class="spotlights">
 	<!--Deep Learning for Android-->
 	<section>
-		<div class="inner"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
+		<div class="inner"><span class="image fit"><img src="assets/images/tello.jpg" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">

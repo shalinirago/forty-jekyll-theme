@@ -28,8 +28,8 @@ order: 3
 					<li>The goal of the course was to emphasise on problem solving tasks before rushing to execution methods while teaching basic OOPs concepts and critical thinking in a fun and exciting manner</li>
 					<li>Designed C++ client-server socket programming APIs for students to use for their course projects to control simulated drones on Microsoft AirSim and deployed the APIs to control DJI Tello Drones</li>
 				</ul>	
-				</div>	
-			</div>
+			    </div>	
+		</div>
 	</div>
 </section> 
 
