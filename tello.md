@@ -17,14 +17,19 @@ order: 3
 	<code>C++, Microsoft AirSim, UDP, Socket Programming</code>
 	</blockquote>
 </div>
-
-<div class="inner">
-		<p><span class="image left"><img src="https://github.com/shalinirago/portfolio/blob/main/tello_desc.gif" alt="" /></span></p>
-		<ul>
-			<li>While courses exist that teach software implementations, a holistic teaching method that explains the design methodologies to be undertaken before diving into writing code is a rare find</li>
-			<li>The goal of the course was to emphasise on problem solving tasks before rushing to execution methods while teaching basic OOPs concepts and critical thinking in a fun and exciting manner</li>
-			<li>Designed C++ client-server socket programming APIs for students to use for their course projects to control simulated drones on Microsoft AirSim and deployed the APIs to control DJI Tello Drones</li>
-		</ul>		
-</div>
+<section>
+	<div class="inner"><span class="image fit"><img src="https://github.com/shalinirago/portfolio/blob/main/tello_desc.gif" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
+		<div class="content">
+			<div class="inner">
+				<div class="box">
+				<ul>
+					<li>While courses exist that teach software implementations, a holistic teaching method that explains the design methodologies to be undertaken before diving into writing code is a rare find</li>
+					<li>The goal of the course was to emphasise on problem solving tasks before rushing to execution methods while teaching basic OOPs concepts and critical thinking in a fun and exciting manner</li>
+					<li>Designed C++ client-server socket programming APIs for students to use for their course projects to control simulated drones on Microsoft AirSim and deployed the APIs to control DJI Tello Drones</li>
+				</ul>	
+				</div>	
+			</div>
+	</div>
+</section> 
 
 </div>
