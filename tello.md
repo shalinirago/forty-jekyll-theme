@@ -18,7 +18,9 @@ order: 3
 	</blockquote>
 </div>
 <section>
-	<div class="inner"><span class="image fit"><img src="https://github.com/shalinirago/portfolio/blob/main/tello_desc.gif" alt="" data-position="center center" /> </span></div> <!--Add appropriate image/gif (CV)-->
+	<div class="inner"><span class="image fit"></span>
+	!["test"](https://github.com/shalinirago/portfolio/blob/main/tello_desc.gif)
+	</div> <!--<img src="https://github.com/shalinirago/portfolio/blob/main/tello_desc.gif/" alt="" data-position="center center" /> -->
 		<div class="content">
 			<div class="inner">
 				<div class="box">
