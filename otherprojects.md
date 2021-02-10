@@ -1,7 +1,8 @@
 ---
 title: Other Projects
 layout: projects
-description: 'A Comprehensive Collections of Projects'
+description: A Comprehensive Collections of Projects
+tile-description: A Comprehensive Collections of Projects
 image: assets/images/other.jpg # Include a good project based image
 nav-menu: true
 order: 4
@@ -14,7 +15,7 @@ order: 4
 <section id="two" class="spotlights">
 	<!--Deep Learning for Android-->
 	<section>
-		<div class="inner"><span class="image fit"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" /></span>
+		<div class="inner"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" />
 		<figcaption><blockquote>A demo of the deployed app</blockquote></figcaption></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner">
@@ -30,7 +31,7 @@ order: 4
 	<!--Kaggle's Categorical Challenge-->
 	<section>
 		<div class="content">
-		<div class="inner"><span class="image fit"><img src="assets/images/categorical.png" alt="" data-position="top center" /> </span></div>
+		<div class="inner"><span class="image fit"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
 			<div class="inner">
 				<header class="major"> <!--Include Github link: <a href="#" class="icon fa-github"><span class="label">Github</span></a> Also put the DA report in the repo!-->
 					<h2>Kaggle's Categorical Encoding Challenge</h2>
@@ -74,14 +75,12 @@ order: 4
 	<!--Porfolio-->
 	<section>
 		<div class="content">
-		<div class="inner"><span class="image fit"><img src="assets/images/portfolio.png" alt="" data-position="top center" /> </span></div> 
+		<div class="inner"><span class="image fit"><img src="assets/images/portfolio.png" alt="" data-position="center center" /> </span></div> 
 			<div class="inner">
 				<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
 				</header>
-				<div class="box">
 				<p>Version 1 of technical portfolio designed.</p>
-				</div>
 				<code>HTML/CSS, jQuery, Jekyll Themes</code>	
 			</div>
 		</div>
