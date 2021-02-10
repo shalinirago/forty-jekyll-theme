@@ -5,7 +5,7 @@ description: Designed a new course named Computational Engineering for the ECE D
 skills: C++, Microsoft AirSim, DJI Drones, UDP
 link: https://github.com/shalinirago/DJITello-Cpp
 link_class: fa fa-github
-image: assets/images/tello.jpeg 
+image: assets/images/tello.jpg 
 nav-menu: true
 order: 3
 ---
@@ -13,7 +13,7 @@ order: 3
 <!-- Main -->
 <div id="main" class="alt">
 <div class="inner">
-	<blockquote>Designed an exciting new Software and Object Orient Design course with the help of Microsoft AirSim and DJI Tello Drones 
+	<blockquote>Designed an exciting new Software and Object Orient Design course with the help of Microsoft AirSim and DJI Tello Drones <br />
 	<code>C++, Microsoft AirSim, UDP, Socket Programming</code>
 	</blockquote>
 </div>
