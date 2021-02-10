@@ -20,7 +20,7 @@ order: 3
 <section id = "two" class="spotlights">
 	<section>
 	<div class="inner">
-		<img src="https://github.com/shalinirago/portfolio/blob/main/tello_desc.gif" width="500" alt="" data-position="center center" />
+		<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" width="500" alt="" data-position="center center" />
 	</div> <!--Add appropriate image/gif (CV)--> <!-- -->
 		<div class="content">
 			<div class="inner">
