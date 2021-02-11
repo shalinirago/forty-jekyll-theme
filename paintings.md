@@ -8,7 +8,7 @@ link:
 link_class:
 image: assets/images/painting.jpg 
 nav-menu: true
-order: 3
+order: 4
 ---
 <!--Click on the link provided to see what the model has to say about a given painting! - add to description-->
 <!-- Main -->

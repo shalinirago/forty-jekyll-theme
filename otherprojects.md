@@ -5,7 +5,7 @@ description: A Comprehensive Collections of Projects
 tile-description: A Comprehensive Collections of Projects
 image: assets/images/other.jpg # Include a good project based image
 nav-menu: true
-order: 4
+order: 6
 ---
 
 <!-- Main -->
