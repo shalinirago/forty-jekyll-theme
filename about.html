@@ -1,27 +1,24 @@
 <!DOCTYPE html>
 <html >
-<head>
-  <meta charset="UTF-8">
+  {% include head.html %}
+  
+  <!--<meta charset="UTF-8">-->
   <title>About</title>
   
-  
-  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Droid+Sans'>
-
+  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic'> <!---Droid+Sans-->
+  <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
       <link rel="stylesheet" href="timeline-5/css/style.css">
       
-      {% include head.html %}
-  
-</head>
-
 <body>
   {% include header.html %}
 
+  <h2>My Timeline!</h2>
   
   <div class="entries">
   <div class="entry">
     <div class="title big">Jan 2020 - Present</div>
     <div class="body">
-      <p>Research Assistant working on the project <a href="#" class="link">Interpreting Paintings</a> in collaboration with the Art Department @Virginia Tech</p>
+      <p>Research Assistant working on the project "Interpreting Paintings" in collaboration with the Art Department @Virginia Tech</p>
     </div>
   </div>
   <div class="entry">
@@ -34,20 +31,20 @@
     <div class="title">May 2019 - May 2020</div>
     <div class="body">
       <p>Graduate Teaching and Research Assistant @ECE Department, Virginia Tech</p>
-      <p>Designed the course <a href="#" class="link">Computational Engineering</a> for the ECE Department</p>
+      <p>Designed the course "Computational Engineering" for the ECE Department</p>
     </div>
   </div>
   <div class="entry">
     <div class="title">2018</div>
     <div class="body">
-      <p>Patent for <a href="#" class="link">Waste Segregation using Artificial Neural Networks</a> published</p>
+      <p>Patent for "Waste Segregation using Artificial Neural Networks" published</p>
     </div>
   </div>
   <div class="entry">
     <div class="title big">September 2017 - June 2018</div>
     <div class="body">
       <p>Worked as a Software Test Engineer @Oracle</p>
-      <p>Delectus facere officia consequuntur molestias deserunt illo. Placeat laudantium beatae natus excepturi ab nihil voluptates.</p>
+      <p></p>
     </div>
   </div>
   <div class="entry">
