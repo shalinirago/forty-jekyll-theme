@@ -15,10 +15,8 @@ order: 3
 <div id="main" class="alt">
 <section id = "one">
 	<div class="inner">
-	<span class="image main">
 		<img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/webapp.gif" alt="" data-position="center center" /> <!--Create a gif for the web app-->
 		<figcaption><blockquote>The web app that describes paintings</blockquote></figcaption>
-	</span>
 	</div> 
 		<div class="content">
 			<div class="inner">

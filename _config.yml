@@ -21,6 +21,7 @@ tiles-count: 4
 github_url: https://www.github.com/shalinirago
 linkedin_url: https://www.linkedin.com/in/shaliniragothaman
 twitter_url: https://twitter.com/shalinirago
+email_url: rshalini@vt.edu
 
 # build settings
 markdown: kramdown
