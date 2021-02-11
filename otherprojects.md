@@ -15,7 +15,7 @@ order: 4
 <section id="two" class="spotlights">
 	<!--Deep Learning for Android-->
 	<section>
-		<div class="inner"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" />
+		<div class="inner"><span class="image main"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" /></span>
 		<figcaption><blockquote>A demo of the deployed app</blockquote></figcaption></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner">
@@ -30,7 +30,7 @@ order: 4
 	</section> 
 	<!--Kaggle's Categorical Challenge-->
 	<section>
-	<div class="inner"><span class="image fit"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
+	<div class="inner"><span class="image main"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
 		<div class="content">
 			<div class="inner">
 				<header class="major"> <!--Include Github link: <a href="#" class="icon fa-github"><span class="label">Github</span></a> Also put the DA report in the repo!-->
@@ -45,7 +45,7 @@ order: 4
 	</section>
 	<!--Deep Q Network-->
 	<section>
-		<div class="inner"><span class="image fit"><img src="assets/images/dqn.png" alt="" data-position="center center" /> </span>
+		<div class="inner"><span class="image main"><img src="assets/images/dqn.png" alt="" data-position="center center" /> </span>
 		<figcaption><blockquote>A snapshot of a training episode</blockquote></figcaption></div> <!--Add appropriate Deep Q Image-->
 		<div class="content">
 			<div class="inner">
@@ -59,7 +59,7 @@ order: 4
 	</section>
 	<!--Question Answering System-->
 	<section>
-		<div class="inner"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" data-position="top center" /> </span></div> 
+		<div class="inner"><span class="image main"><img src="assets/images/pic09.jpg" alt="" data-position="top center" /> </span></div> 
 		<div class="content">
 			<div class="inner">
 				<header class="major"> <!--Include Github link-->
@@ -74,7 +74,7 @@ order: 4
 	</section>
 	<!--Porfolio-->
 	<section>
-	<div class="inner"><span class="image fit"><img src="assets/images/portfolio.png" alt="" data-position="center center" /> </span></div> 
+	<div class="inner"><span class="image main"><img src="assets/images/portfolio.png" alt="" data-position="center center" /> </span></div> 
 		<div class="content">
 			<div class="inner">
 				<header class="major">

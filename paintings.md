@@ -23,17 +23,17 @@ order: 3
 			<div class="inner">
 			<div class="row">
                 <div class="6u 12u$(small)">
-					<ul>
 					<p>We know computers can create visual forms of art: but can they understand or interpret art?<br />
 					The current deep learning systems are advancing to caption images accurately, however, a mere captioning system does not do justice to put forth a description of paintings that is interpretive in nature. <br />
 					This designed system is, in a way, an investigation to push the creative possibilities of computers; finding meanings in Art is purely subjective and we intended to hear a computer's outlook on paintings.
 					</p>
 					<div class="inner">
-					<li>Humans writing Formal Analysis of paintings perform a multi-step process to analyse not only the contents but the composition, form, context to grasp the meaning of the painting.</li>
-					<li>A similar technique was designed and implemented, through the means of collaboration with the Art Departmen at Virginia Tech, to extract the form elements of the painting using Computer Vision algorithms</li>
-					<li>Based on the image features extracted, corresponding natural language sentences were generated to output sentences to describe what the model has seen in the paintings analysed</li>
-					<li>Using Flask-RESTful and React, a comprehensive web app was built to deploy the entire system - users can upload images and hit "Analyse" to see what the model has to say about the painting</li>
-					</ul>
+						<ul>
+							<li>Humans writing Formal Analysis of paintings perform a multi-step process to analyse not only the contents but the composition, form, context to grasp the meaning of the painting.</li>
+							<li>A similar technique was designed and implemented, through the means of collaboration with the Art Departmen at Virginia Tech, to extract the form elements of the painting using Computer Vision algorithms</li>
+							<li>Based on the image features extracted, corresponding natural language sentences were generated to output sentences to describe what the model has seen in the paintings analysed</li>
+							<li>Using Flask-RESTful and React, a comprehensive web app was built to deploy the entire system - users can upload images and hit "Analyse" to see what the model has to say about the painting</li>
+						</ul>
 					</div>
                 </div>
 				<div class="6u 12u$(small)">
