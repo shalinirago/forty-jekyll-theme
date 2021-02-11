@@ -1,8 +1,8 @@
 body {
-  background-image: linear-gradient(#2a2f4a, #343a5a, #39437c, #4654a1, #5566c5, #6c7cdb, #7c8ce2, #919eeb, #aab5f5, #b9c4ff );
+  background-image: linear-gradient(#2a2f4a, #2a2f4a, #343a5a, #39437c, #4654a1);
   min-height: 100vh;
   margin: 0;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Source Sans Pro';
 }
 body:before {
   content: '';
@@ -44,7 +44,7 @@ body .entries .entry .title:before {
   width: 8px;
   height: 8px;
   border: 4px solid #ffffff;
-  background-color: #5f5e5e;
+  background-color: #070707;
   border-radius: 100%;
   top: 50%;
   -webkit-transform: translateY(-50%);
