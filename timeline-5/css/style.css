@@ -1,5 +1,5 @@
 body {
-  background-color: #1D1D1D;
+  background-image: linear-gradient(#5ad8ee, #5aa6ee, #5a9fee, #5a69ee, #705aee, rgb(164, 118, 240), rgb(212, 118, 240) );
   min-height: 100vh;
   margin: 0;
   font-family: 'Droid Sans', sans-serif;
@@ -13,7 +13,7 @@ body:before {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   width: 4px;
-  background-color: #fff;
+  background-color: #fff, ;
 }
 body .entries {
   width: calc(100% - 80px);
