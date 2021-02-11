@@ -16,7 +16,7 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{page.landing-title}}</h1>
+                <h1><code>{{page.landing-title}}</code></h1>
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
@@ -25,9 +25,8 @@
     </section>
     <!---About Section-->
     <section id="one">
-        <div class="inner" style="text-align:center">
+        <div id = "home-about" class="inner" style="text-align:center">
             <header class="major">
-                <h2>About Me</h2>
             </header>
             <div class="row">
                 <div class="inner 6u 12u$(small)">
@@ -43,6 +42,9 @@
                             </ul>
                     </dd>
                     </div>
+                    <!---Timeline starts here-->
+                    {% include about.html %}
+                      <!---Timeline ends here --->
                 </div>
                 <div class="inner 6u$ 12u$(small)">
                     <span class="image fit">
@@ -51,6 +53,7 @@
             </div>
         </div>
     </section>
+
     <!-- Main -->
     <div id="home-main">
         <div class="inner">
@@ -62,9 +65,7 @@
         </div>
         <!-- One -->
         {% include tiles.html %}
-
     </div>
-
 
     {% include footer.html %}
 
