@@ -18,7 +18,7 @@ order: 3
 	<div class="inner">
 	<span class="image fit">
 		<img src="" alt="" data-position="top center" />
-		<figcaption>a</figcaption>
+		<figcaption></figcaption>
 	</span>
 	</div> 
 		<div class="content">

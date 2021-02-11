@@ -15,9 +15,10 @@ order: 3
 <div id="main" class="alt">
 <section id = "one">
 	<div class="inner">
+	<span class="image main">
 		<img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/webapp.gif" alt="" data-position="center center" /> <!--Create a gif for the web app-->
 		<figcaption><blockquote>The web app that describes paintings</blockquote></figcaption>
-	</div> 
+	</span></div> 
 		<div class="content">
 			<div class="inner">
 			<div class="row">
@@ -27,11 +28,13 @@ order: 3
 					The current deep learning systems are advancing to caption images accurately, however, a mere captioning system does not do justice to put forth a description of paintings that is interpretive in nature. <br />
 					This designed system is, in a way, an investigation to push the creative possibilities of computers; finding meanings in Art is purely subjective and we intended to hear a computer's outlook on paintings.
 					</p>
+					<div class="inner">
 					<li>Humans writing Formal Analysis of paintings perform a multi-step process to analyse not only the contents but the composition, form, context to grasp the meaning of the painting.</li>
 					<li>A similar technique was designed and implemented, through the means of collaboration with the Art Departmen at Virginia Tech, to extract the form elements of the painting using Computer Vision algorithms</li>
 					<li>Based on the image features extracted, corresponding natural language sentences were generated to output sentences to describe what the model has seen in the paintings analysed</li>
 					<li>Using Flask-RESTful and React, a comprehensive web app was built to deploy the entire system - users can upload images and hit "Analyse" to see what the model has to say about the painting</li>
 					</ul>
+					</div>
                 </div>
 				<div class="6u 12u$(small)">
 				<h3>A sample output produced by the model for the cubist painting <i>Femme Cubiste</i> by Albert Gleizes</h3> <br />

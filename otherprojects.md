@@ -23,21 +23,21 @@ order: 4
 					<h2>Deep Learning for Android <a href="https://sites.google.com/vt.edu/slixstream/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h2>
 					<h4>An App for High Speed Bicyclists</h4>
 				</header>
-				<p>An Object Detection Android App deployed onto smartphones to assist bicyclists in slipstreaming. The app detects alert signs on the road and large vehicles such as trucks and buses and draws a bounding box around the detected objects</p>
+				<p>An Object Detection Android App deployed onto smartphones to assist bicyclists in slipstreaming. The app detects alert signs on the road and large vehicles such as trucks and buses and draws bounding boxes around the detected objects</p>
 				<code>TensorFlow Lite, YOLO Network, Android Studio</code>	
 			</div>
 		</div>
 	</section> 
 	<!--Kaggle's Categorical Challenge-->
 	<section>
+	<div class="inner"><span class="image fit"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
 		<div class="content">
-		<div class="inner"><span class="image fit"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
 			<div class="inner">
 				<header class="major"> <!--Include Github link: <a href="#" class="icon fa-github"><span class="label">Github</span></a> Also put the DA report in the repo!-->
 					<h2>Kaggle's Categorical Encoding Challenge</h2>
 				</header>
 				<p>
-					A unique Kaggle challenge to experiment with optimal encoding and data pre-processing techniques for categorical data. Performed regression and achieved improved performance to land within the top 90 percentile ranks of the leaderboard.
+					A unique Kaggle challenge to experiment with optimal encoding and data pre-processing techniques for categorical data. Achieved improved regression performance and landed within the top 90 percentile ranks of the leaderboard.
 				</p>
 				<code>Python, scikit-learn</code>	
 			</div> <!--Add appropriate Kaggle Image-->
@@ -74,8 +74,8 @@ order: 4
 	</section>
 	<!--Porfolio-->
 	<section>
+	<div class="inner"><span class="image fit"><img src="assets/images/portfolio.png" alt="" data-position="center center" /> </span></div> 
 		<div class="content">
-		<div class="inner"><span class="image fit"><img src="assets/images/portfolio.png" alt="" data-position="center center" /> </span></div> 
 			<div class="inner">
 				<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
