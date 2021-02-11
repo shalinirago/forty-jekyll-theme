@@ -1,35 +1,45 @@
 ---
 layout: projects
-title: Course Design with the DJI Tello
-tile-description: Designed a new course named Computational Engineering for the ECE Department @Virginia Tech <br /> 
-description: Designed an exciting new Software and Object Orient Design course with the help of Microsoft AirSim and DJI Tello Drones
-skills: C++, Microsoft AirSim, DJI Drones, UDP
-link: https://github.com/shalinirago/DJITello-Cpp
-link_class: fa fa-github
-image: assets/images/tello.jpg 
+title: A Web App that Interprets Paintings
+tile-description: An AI experiment intended to delve into a machine's perspective when interpreting paintings <br /> 
+description: Exploring Computational Creativity - A web app that generates sentences based on its analysis of a given input painting
+skills: PyTorch, ResNet-50, GPT-2, Flask, React
+link: 
+link_class:
+image: assets/images/painting.jpg 
 nav-menu: true
 order: 3
 ---
-
+<!--Click on the link provided to see what the model has to say about a given painting! - add to description-->
 <!-- Main -->
 <div id="main" class="alt">
 <section id = "two" class="spotlights">
 	<section>
 	<div class="inner">
 	<span class="image fit">
-		<img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/tello_desc.gif" alt="" data-position="center center" />
-		<figcaption>Simulation of drones using Microsoft AirSim</figcaption>
+		<img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/webapp.gif" alt="" data-position="center center" /> <!--Create a gif for the web app-->
+		<figcaption>The web app that describes paintings</figcaption>
 	</span>
 	</div> 
 		<div class="content">
 			<div class="inner">
 				<div class="box">
 				<ul>
-					<li>While courses exist that teach software implementations, a holistic teaching method that explains the design methodologies to be undertaken before diving into writing code is a rare find</li>
-					<li>The goal of the course was to emphasise on problem solving tasks before rushing to execution methods while teaching basic OOPs concepts and critical thinking in a fun and exciting manner</li>
-					<li>Designed C++ client-server socket programming APIs for students to use for their course projects to control simulated drones on Microsoft AirSim and deployed the APIs to control DJI Tello Drones</li>
-				</ul>	
+					<p>We know computers can create visual forms of art: but can they understand or interpret art?<br />
+					The current deep learning systems are advancing to caption images accurately, however, a mere captioning system does not do justice to put forth a description of paintings that is interpretive in nature. <br />
+					This designed system is, in a way, an investigation to push the creative possibilities of computers; finding meanings in Art is purely subjective and we intended to hear a computer's outlook on paintings.
+					</p>
+					<li>Humans writing Formal Analysis of paintings perform a multi-step process to analyse not only the contents but the composition, form, context to grasp the meaning of the painting.</li>
+					<li>A similar technique was designed and implemented, through the means of collaboration with the Art Departmen at Virginia Tech, to extract the form elements of the painting using Computer Vision algorithms</li>
+					<li>Based on the image features extracted, corresponding natural language sentences were generated to output sentences to describe what the model has seen in the paintings analysed</li>
+					<li>Using Flask-RESTful and React, a comprehensive web app was built to deploy the entire system - users can upload images and hit "Analyse" to see what the model has to say about the painting</li>
+				</ul>
+				<h3>A sample output produced by the model for the cubist painting <i>Femme Cubiste</i> by Albert Gleizes</h3> <br />
+				<h4>Note: This is a test painting that the model has not seen before</h4>
+				<div class="inner">
+				<blockquote>The Painting is of the style Cubism, the German Expressionism, the Expressionism of the 1940s and 1950s, the Expressionism of the 1960s, and, most notably, the Expressionism of the 1980s. In many ways, Expressionism is one of the most important artistic developments in American history. means to imply, express or refer to a work of art, and to suggest a new, unbroken continuity with the traditional, naturalistic art. means to establish a new, distinct identity, or The Painting is of the style Cubism, characterized by the use of geometric forms and simple shapes for painting. The painting is characterized by a vivid color scheme that fully envelopes the viewer.  The Painting reminds me of Pablo Picasso who came out of the 1940s and 1950s as the world is awakening to modernity. Picasso, in contrast to his old Fauves and Impressionists like Paul Gauguin, used simplified geometric forms to evoke a new world, with geometric forms in a way that was not yet obvious. Rather than looking like classical artists (the French called Picasso while the Americans called Impressionists )</blockquote>
 			    </div>	
+			</div>
 		</div>
 	</div>
 	</section>
