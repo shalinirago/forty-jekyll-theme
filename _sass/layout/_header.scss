@@ -67,6 +67,7 @@
 			margin: 0;
 			padding: 0;
 			overflow: hidden;
+			margin-right: 0.325em;
 			background-color: rgb(105, 135, 190);
 		}
 		  
@@ -75,7 +76,8 @@
 		}
 		  
 		li a {
-			display: block;
+			display: inline-block;
+			font-size: 0.8em;
 			color: white;
 			text-align: center;
 			padding: 14px 16px;
