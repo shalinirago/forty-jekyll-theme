@@ -6,7 +6,7 @@ description: A novel embedded system integrated with a designed deep neural netw
 skills: C++, MATLAB, Neural Networks, ATMEGA328P
 link: https://github.com/shalinirago/DJITello-Cpp
 link_class: fa fa-github
-image: assets/images/tello.jpg 
+image: assets/images/waste.jpg 
 nav-menu: true
 order: 5
 ---
