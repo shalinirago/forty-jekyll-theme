@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Course Design with the DJI Tello
+title: Object Oriented Design Course with the DJI Tello
 tile-description: Designed a new course named Computational Engineering for the ECE Department @Virginia Tech <br /> 
 description: Designed an exciting new Software and Object Orient Design course with the help of Microsoft AirSim and DJI Tello Drones
 skills: C++, Microsoft AirSim, DJI Drones, UDP

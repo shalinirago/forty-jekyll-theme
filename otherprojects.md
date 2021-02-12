@@ -1,5 +1,5 @@
 ---
-title: Other Projects
+title: Other Works
 layout: projects
 description: A Comprehensive Collections of Projects
 tile-description: A Comprehensive Collections of Projects
