@@ -59,30 +59,25 @@ order: 6
 	</section>
 	<!--Question Answering System-->
 	<section>
-		<div class="inner"><span class="image main"><img src="assets/images/pic09.jpg" alt="" data-position="top center" /> </span></div> 
-		<div class="content">
-			<div class="inner">
-				<header class="major"> <!--Include Github link-->
+	<div class="content">
+	<div class="inner">
+		<div class="row">
+				<div class="6u$ 12u$(small)"> 
+					<header class="major"> <!--Include Github link-->
 					<h2>VQA System</h2>
-				</header>
-				<div class="box">
-				<p>STAR method</p>
+					</header>
+					<p>STAR method</p>
+					<code>List skills</code>	
 				</div>
-				<samp>List skills</samp>	
-			</div>
-		</div><!--Add appropriate Image-->
-	</section>
-	<!--Porfolio-->
-	<section>
-	<div class="inner"><span class="image main"><img src="assets/images/portfolio.png" alt="" data-position="center center" /> </span></div> 
-		<div class="content">
-			<div class="inner">
+			<div class="6u$ 12u$(small)">
 				<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
 				</header>
 				<p>Version 1 of technical portfolio designed.</p>
-				<code>HTML/CSS, jQuery, Jekyll Themes</code>	
+				<code>HTML/CSS, jQuery, Jekyll Themes</code>
 			</div>
+		</div>
+		</div>
 		</div>
 	</section>
 </section>
