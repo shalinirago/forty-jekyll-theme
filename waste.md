@@ -13,14 +13,7 @@ order: 5
 
 <!-- Main -->
 <div id="main" class="alt">
-<section id = "two" class="spotlights">
-	<section>
-	<div class="inner">
-	<span class="image fit">
-		<img src="" alt="" data-position="top center" />
-		<figcaption></figcaption>
-	</span>
-	</div> 
+<section id = "one">
 		<div class="content">
 			<div class="inner">
 			<div class="row">
@@ -43,7 +36,6 @@ order: 5
 			</div>
 			</div>
 		</div>
-	</section>
 </section> 
 
 </div>
