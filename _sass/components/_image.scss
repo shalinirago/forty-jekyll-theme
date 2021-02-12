@@ -51,14 +51,15 @@ img {
 		}
 		&.main-fit{
 			display: block;
+			width: auto;
+			text-align: center;
     		margin-left: auto;
     		margin-right: auto;
-    		height: auto;
     		padding-top: 10px;
 
 			img{
-				width: 512px;
-				height: 512px;
+				max-width:100%;
+				height:auto;
 			}
 
 		}
