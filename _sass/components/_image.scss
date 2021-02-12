@@ -49,6 +49,13 @@ img {
 				width: 100%;
 			}
 		}
+		&.main-fit{
+			display: block;
+    		margin-left: auto;
+    		margin-right: auto;
+    		height: auto;
+    		padding-top: 10px;
+		}
 
 		&.main {
 			display: block;
