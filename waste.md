@@ -40,8 +40,9 @@ order: 5
 					</ul>	
 			    	</div>
 				</div>
+			</div>
+			</div>
 		</div>
-	</div>
 	</section>
 </section> 
 

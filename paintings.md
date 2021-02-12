@@ -23,7 +23,8 @@ order: 4
 			<div class="inner">
 			<div class="row">
                 <div class="6u 12u$(small)">
-					<p><h3>We know computers can create visual forms of art: but can they understand or interpret art?</h3><br />
+					<h3>We know computers can create visual forms of art: but can they understand or interpret art?</h3>
+					<p>
 					The current deep learning systems are advancing to caption images accurately, however, a mere captioning system does not do justice to put forth a description of paintings that is interpretive in nature. <br />
 					This designed system is, in a way, an investigation to push the creative possibilities of computers; finding meanings in Art is purely subjective and we intended to hear a computer's outlook on paintings.
 					</p>
