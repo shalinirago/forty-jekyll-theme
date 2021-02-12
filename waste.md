@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Waste Segregation System using Artificial Neural Networks
+title: Waste Segregation System using Deep Learning
 tile-description: An innovative solution to a part of one of the biggest crises in the world - Waste Management <br /> 
 description: A novel embedded system integrated with a designed deep neural network to automate segregation of waste to avoid human intervention
 skills: C++, MATLAB, Neural Networks, ATMEGA328P
