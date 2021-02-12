@@ -60,7 +60,6 @@ order: 6
 </section>
 <!--Question Answering System-->
 <section id="one">
-	<div class="content">
 	<div class="inner">
 		<div class="row">
 			<div class="6u$ 12u$(small)"> 
@@ -78,7 +77,6 @@ order: 6
 					<code>HTML/CSS, jQuery, Jekyll Themes</code>
 			</div>
 		</div>
-	</div>
 	</div>
 </section>
 
