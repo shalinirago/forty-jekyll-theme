@@ -22,7 +22,7 @@ order: 3
 	</span>
 	</div> 
 		<div class="content">
-			<div class="inner">
+			<div class="inner" style="padding: 50px">
 				<div class="box">
 				<ul>
 					<li>While courses exist that teach software implementations, a holistic teaching method that explains the design methodologies to be undertaken before diving into writing code is a rare find</li>

@@ -18,7 +18,7 @@ order: 6
 		<div class="inner"><span class="image main"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" /></span>
 		<figcaption><blockquote>A demo of the deployed app</blockquote></figcaption></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
-			<div class="inner">
+			<div class="inner" style="padding: 50px">
 				<header class="major">
 					<h2>Deep Learning for Android <a href="https://sites.google.com/vt.edu/slixstream/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h2>
 					<h4>An App for High Speed Bicyclists</h4>
@@ -32,7 +32,7 @@ order: 6
 	<section>
 	<div class="inner"><span class="image main"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
 		<div class="content">
-			<div class="inner">
+			<div class="inner" style="padding: 50px">
 				<header class="major"> <!--Include Github link: <a href="#" class="icon fa-github"><span class="label">Github</span></a> Also put the DA report in the repo!-->
 					<h2>Kaggle's Categorical Encoding Challenge</h2>
 				</header>
@@ -48,7 +48,7 @@ order: 6
 		<div class="inner"><span class="image main"><img src="assets/images/dqn.png" alt="" data-position="center center" /> </span>
 		<figcaption><blockquote>A snapshot of a training episode</blockquote></figcaption></div> <!--Add appropriate Deep Q Image-->
 		<div class="content">
-			<div class="inner">
+			<div class="inner" style="padding: 50px">
 				<header class="major">
 					<h2>Deep Q Learning using Microsoft AirSim <a href="https://sites.google.com/vt.edu/thewolverine/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h2>
 				</header>
@@ -63,14 +63,14 @@ order: 6
 <div class="content">
 			<div class="inner">
 			<div class="row">
-                <div class="inner 6u 12u$(small)">
+                <div class="inner 6u 12u$(small)" style="padding: 50px">
 					<header class="major"> <!--Include Github link-->
 					<h2>VQA System</h2>
 					</header>
 					<p>STAR method</p>
 					<code>List skills</code>
                 </div>
-				<div class="inner 6u 12u$(small)">
+				<div class="inner 6u 12u$(small)" style="padding: 50px">
 					<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
 					</header>
