@@ -60,10 +60,30 @@ order: 6
 </section>
 <!--Question Answering System-->
 <section id="one">
-	<div class="inner">
+<div class="content">
+			<div class="inner">
+			<div class="row">
+                <div class="inner 6u 12u$(small)">
+					<header class="major"> <!--Include Github link-->
+					<h2>VQA System</h2>
+					</header>
+					<p>STAR method</p>
+					<code>List skills</code>
+                </div>
+				<div class="inner 6u 12u$(small)">
+					<header class="major">
+					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
+					</header>
+					<p>Version 1 of technical portfolio designed.</p>
+					<code>HTML/CSS, jQuery, Jekyll Themes</code>
+				</div>
+			</div>
+			</div>
+</div>		
+<!--<div class="inner">
 		<div class="row">
 			<div class="6u$ 12u$(small)"> 
-					<header class="major"> <!--Include Github link-->
+					<header class="major">
 					<h2>VQA System</h2>
 					</header>
 					<p>STAR method</p>
@@ -77,7 +97,7 @@ order: 6
 					<code>HTML/CSS, jQuery, Jekyll Themes</code>
 			</div>
 		</div>
-	</div>
+	</div>-->
 </section>
 
 </div>
