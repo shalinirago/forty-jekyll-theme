@@ -12,7 +12,7 @@ order: 4
 ---
 <!--Click on the link provided to see what the model has to say about a given painting! - add to description-->
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main">
 <section id = "one">
 	<div class="inner">
 	<span class="image main">
