@@ -15,7 +15,7 @@ order: 6
 <section id="two" class="spotlights">
 	<!--Deep Learning for Android-->
 	<section>
-		<div class="inner"><span class="image main"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" /></span>
+		<div class="inner" style="padding: 50px"><span class="image main"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" /></span>
 		<figcaption><blockquote>A demo of the deployed app</blockquote></figcaption></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner" style="padding: 50px">
@@ -30,7 +30,7 @@ order: 6
 	</section> 
 	<!--Kaggle's Categorical Challenge-->
 	<section>
-	<div class="inner"><span class="image main"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
+	<div class="inner" style="padding: 50px"><span class="image main"><img src="assets/images/categorical.PNG" alt="" data-position="top center" /> </span></div>
 		<div class="content">
 			<div class="inner" style="padding: 50px">
 				<header class="major"> <!--Include Github link: <a href="#" class="icon fa-github"><span class="label">Github</span></a> Also put the DA report in the repo!-->
@@ -45,7 +45,7 @@ order: 6
 	</section>
 	<!--Deep Q Network-->
 	<section>
-		<div class="inner"><span class="image main"><img src="assets/images/dqn.png" alt="" data-position="center center" /> </span>
+		<div class="inner" style="padding: 50px"><span class="image main"><img src="assets/images/dqn.png" alt="" data-position="center center" /> </span>
 		<figcaption><blockquote>A snapshot of a training episode</blockquote></figcaption></div> <!--Add appropriate Deep Q Image-->
 		<div class="content">
 			<div class="inner" style="padding: 50px">
@@ -62,14 +62,14 @@ order: 6
 	<div class="content">
 			<div class="inner">
 			<div class="row">
-                <div class="inner 6u 12u$(small)" style="margin-left: auto; margin-right: auto; padding: 50px;">
+                <div class="inner 6u 12u$(small)" style="padding: 50px;">
 					<header class="major">
 					<h2>Visual Question Answering</h2>
 					</header>
 					<p>Surveyed existing techniques in building a VQA system in the medical domain; utilized a new dataset, RAD VQA and the language model BERT to experiment with the state-of-the art models in the Visual Question Answering domain with clinical data</p>
-					<code>List skills</code>
+					<code>ResNet-50, BERT</code>
                 </div>
-				<div class="inner 6u 12u$(small)" style="margin-left: auto; margin-right: auto; padding: 50px;">
+				<div class="inner 6u 12u$(small)" style="padding: 50px;">
 					<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
 					</header>
