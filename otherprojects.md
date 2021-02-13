@@ -58,25 +58,27 @@ order: 6
 		</div>
 	</section>
 	<!--others-->
+	<section>
 	<div class="content">
 			<div class="inner">
 			<div class="row">
-                <div class="inner 6u 12u$(small)" style="padding: 50px">
-					<header class="major"> <!--Include Github link-->
-					<h2>VQA System</h2>
+                <div class="inner 6u 12u$(small)" style="margin-left: auto; margin-right: auto; padding: 50px;">
+					<header class="major">
+					<h2>Visual Question Answering</h2>
 					</header>
-					<p>STAR method</p>
+					<p>Surveyed existing techniques in building a VQA system in the medical domain; utilized a new dataset, RAD VQA and the language model BERT to experiment with the state-of-the art models in the Visual Question Answering domain with clinical data</p>
 					<code>List skills</code>
                 </div>
-				<div class="inner 6u 12u$(small)" style="padding: 50px">
+				<div class="inner 6u 12u$(small)" style="margin-left: auto; margin-right: auto; padding: 50px;">
 					<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
 					</header>
-					<p>Version 1 of technical portfolio designed.</p>
+					<p>Version 1 of technical portfolio designed</p>
 					<code>HTML/CSS, jQuery, Jekyll Themes</code>
 				</div>
 			</div>
 			</div>
 	</div>	
 </section>	
+</section>
 </div>
