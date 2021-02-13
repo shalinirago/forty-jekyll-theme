@@ -51,6 +51,11 @@
 		font-weight: _font(weight-bold);
 	}
 
+	bcolor{
+		color: _palette(accent4);
+		font-weight: _font(weight-bold);
+
+	}
 	em, i {
 		font-style: italic;
 	}
