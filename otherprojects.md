@@ -57,20 +57,20 @@ order: 6
 			</div>
 		</div>
 	</section>
-	</section>
+</section>
 	<!--others-->
-	<section ide = "one">
+	<section id = "one">
 	<div class="content">
 			<div class="inner">
 			<div class="row">
-                <div class="inner 6u 12u$(small)">
+                <div class="inner 6u 12u$(small)" style="padding: 50px">
 					<header class="major">
 					<h2>Visual Question Answering</h2>
 					</header>
 					<p>Surveyed existing techniques in building a VQA system in the medical domain; utilized a new dataset, RAD VQA and the language model BERT to experiment with the state-of-the art models in the Visual Question Answering domain with clinical data</p>
 					<code>ResNet-50, BERT</code>
                 </div>
-				<div class="inner 6u 12u$(small)">
+				<div class="inner 6u 12u$(small)" style="padding: 50px">
 					<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
 					</header>
@@ -80,6 +80,5 @@ order: 6
 			</div>
 			</div>
 	</div>	
-</section>	
 </section>
 </div>
