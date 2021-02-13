@@ -12,7 +12,7 @@ order: 5
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main">
 <section id = "one">
 		<div> <br />
 		</div>

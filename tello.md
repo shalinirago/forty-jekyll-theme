@@ -12,7 +12,7 @@ order: 3
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main">
 <section id = "two" class="spotlights">
 	<section>
 	<div class="inner">
