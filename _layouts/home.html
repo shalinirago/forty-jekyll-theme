@@ -40,7 +40,7 @@
                            <br />I am also an avid LeetCoder; I love learning and implementing some neat algorithms that solve interesting challenges.
                            <br />Computational Creativity, the intersection of the Arts and Artificial Intelligence, intrigues me: I am excited to contribute to push the creative boundaries in computers.</p>
                         <p>I care deeply about mental health, making environmentally sustainable choices and plants!</p>
-                        <p>I am currently looking for full-time opportunities in Software Engineering! Check out my resume here:</p>
+                        <p>I am currently looking for full-time opportunities in Software Engineering. Check out my resume here:</p>
                         <div style="text-align: center;"><ul class="actions">
                             <li><a href="Shalini_Ragothaman_Resume.pdf" target="_blank" class="button special">Resume</a></li>
                         </ul></div>
@@ -61,12 +61,12 @@
                         </div>
                         <div class="inner" style="text-align:center;">
                         <br />
-                        <p>Connect with me!</p>
+                        <p>Connect with me!</p><br />
+                        {% if site.email_url %}
+                            <a href="mailto:{{ site.email_url }}" target="_blank">rshalini@vt.edu</a>
+                        {% endif %}
                         <div class="inner">
                             <ul class="icons">
-                                {% if site.email_url %}
-                                <li><a href="mailto:{{ site.email_url }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
-                                {% endif %}
                                 {% if site.linkedin_url %}
                                 <li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
                                 {% endif %}
@@ -86,7 +86,7 @@
                         <br />
                         <br />
                         <div class="inner" style="text-align:center;">
-                        <h4>My Tech stack!</h4>                        
+                        <h4>My Tech stack:</h4>                        
                         <div class="row">
                             <div class="4u 12u$(medium)">
                                     <ul> <!--Programming languages-->
@@ -120,7 +120,7 @@
 
     <div class="inner">
         <header class="major">
-            <h2 style="color: #4499a3;">My Timeline!</h2>
+            <h2 style="color: #4499a3;">My Timeline:</h2>
         </header>
         <div class="inner" style=" margin-left: auto; margin-right: auto; padding: 50px;">
         <ul class="fit">
@@ -166,7 +166,9 @@
         <!-- One -->
         {% include tiles.html %}
     </div>
-
+    <section> <!--check if this spacing works-->
+        <br />
+    </section>
     {% include footer.html %}
 
 

@@ -23,7 +23,7 @@ order: 6
 					<h2>Deep Learning for Android <a href="https://sites.google.com/vt.edu/slixstream/home?authuser=0" target="_blank"><i class="fa fa-external-link"></i></a></h2>
 					<h4>An App for High Speed Bicyclists</h4>
 				</header>
-				<p>An Object Detection Android App deployed onto smartphones to assist bicyclists in slipstreaming. The app detects alert signs on the road and large vehicles such as trucks and buses and draws bounding boxes around the detected objects</p>
+				<p>An Object Detection Android App deployed onto smartphones to assist bicyclists in slipstreaming. The app detects alert signs on the road and large vehicles such as trucks and buses, and draws bounding boxes around the detected objects</p>
 				<code>TensorFlow Lite, YOLO Network, Android Studio</code>	
 			</div>
 		</div>
@@ -63,14 +63,14 @@ order: 6
 	<div class="content">
 			<div class="inner">
 			<div class="row">
-                <div class="inner 6u 12u$(small)" style="padding: 50px">
+                <div class="inner 6u 12u$(small)" style="padding: 80px">
 					<header class="major">
 					<h2>Visual Question Answering</h2>
 					</header>
-					<p>Surveyed existing techniques in building a VQA system in the medical domain; utilized a new dataset, RAD VQA and the language model BERT to experiment with the state-of-the art models in the Visual Question Answering domain with clinical data</p>
+					<p>Surveyed existing techniques in building a VQA system in the medical domain; utilized a new dataset, RAD VQA and the language model BERT to experiment with state-of-the art models in the Visual Question Answering domain with clinical data</p>
 					<code>ResNet-50, BERT</code>
                 </div>
-				<div class="inner 6u 12u$(small)" style="padding: 50px">
+				<div class="inner 6u 12u$(small)" style="padding: 80px">
 					<header class="major">
 					<h2>Technical Portfolio <a href="https://github.com/shalinirago/forty-jekyll-theme/tree/gh-pages-1" class="icon fa-github"><span class="label">Github</span></a></h2>
 					</header>

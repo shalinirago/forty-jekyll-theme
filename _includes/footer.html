@@ -7,11 +7,11 @@
 </section>-->
 <!-- Footer -->
 	<footer id="footer">
+		{% if site.email_url %}
+		<a href="mailto:{{ site.email_url }}" target="_blank">rshalini@vt.edu</a>
+		{% endif %}<br />
 		<div class="inner" style="text-align: center;">
 			<ul class="icons">
-				{% if site.email_url %}
-				<li><a href="mailto:{{ site.email_url }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
-				{% endif %}
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}

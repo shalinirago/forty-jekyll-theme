@@ -30,19 +30,19 @@ order: 4
 					</p>
 					<div class="inner">
 						<ul>
-							<li>Humans writing Formal Analysis of paintings perform a multi-step process to analyse not only the contents but the composition, form, context to grasp the meaning of the painting.</li>
-							<li>A similar technique was designed and implemented, through the means of collaboration with the Art Departmen at Virginia Tech, to extract the form elements of the painting using Computer Vision algorithms</li>
+							<li>Humans writing Formal Analysis of paintings perform a multi-step process to analyse not only the contents but the composition, form and context to grasp the meaning of the painting</li>
+							<li>A similar technique was designed and implemented, through the means of collaboration with the Art Department at Virginia Tech, to extract the form elements of the painting using Computer Vision algorithms</li>
 							<li>Based on the image features extracted, corresponding natural language sentences were generated to output sentences to describe what the model has seen in the paintings analysed</li>
 							<li>Using Flask-RESTful and React, a comprehensive web app was built to deploy the entire system - users can upload images and hit "Analyse" to see what the model has to say about the painting</li>
 						</ul>
 					</div>
                 </div>
 				<div class="6u 12u$(small)" style="padding: 80px">
-				<h3>A sample output produced by the model for the cubist painting <i>Femme Cubiste</i> by Albert Gleizes</h3> <br />
-				<h4>Note: This is a test painting that the model has not seen before</h4>
+				<h3>A sample output produced by the model for the cubist painting <i>Femme Cubiste</i> by Albert Gleizes</h3>
 					<div class="inner">
-					<blockquote>The Painting is of the style Cubism, the German Expressionism, the Expressionism of the 1940s and 1950s, the Expressionism of the 1960s, and, most notably, the Expressionism of the 1980s. In many ways, Expressionism is one of the most important artistic developments in American history. means to imply, express or refer to a work of art, and to suggest a new, unbroken continuity with the traditional, naturalistic art. means to establish a new, distinct identity, or The Painting is of the style Cubism, characterized by the use of geometric forms and simple shapes for painting. The painting is characterized by a vivid color scheme that fully envelopes the viewer.  The Painting reminds me of Pablo Picasso who came out of the 1940s and 1950s as the world is awakening to modernity. Picasso, in contrast to his old Fauves and Impressionists like Paul Gauguin, used simplified geometric forms to evoke a new world, with geometric forms in a way that was not yet obvious. Rather than looking like classical artists (the French called Picasso while the Americans called Impressionists )</blockquote>
+					<blockquote><code>The Painting is of the style Cubism, the German Expressionism, the Expressionism of the 1940s and 1950s, the Expressionism of the 1960s, and, most notably, the Expressionism of the 1980s. In many ways, Expressionism is one of the most important artistic developments in American history. means to imply, express or refer to a work of art, and to suggest a new, unbroken continuity with the traditional, naturalistic art. means to establish a new, distinct identity, or The Painting is of the style Cubism, characterized by the use of geometric forms and simple shapes for painting. The painting is characterized by a vivid color scheme that fully envelopes the viewer.  The Painting reminds me of Pablo Picasso who came out of the 1940s and 1950s as the world is awakening to modernity. Picasso, in contrast to his old Fauves and Impressionists like Paul Gauguin, used simplified geometric forms to evoke a new world, with geometric forms in a way that was not yet obvious. Rather than looking like classical artists (the French called Picasso while the Americans called Impressionists )</code></blockquote>
 			   		 </div>	
+				<h4>Note: This is a test painting that the model has not seen before</h4>
 				</div>
 			</div>
 			</div>
