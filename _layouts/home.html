@@ -35,18 +35,20 @@
                 <div class="inner">
                     <dd>
                         <h1 style="color: #4499a3;">Hi!</h1>
-                        <p>I am a Graduate with a Master's Degree in Computer Engineering from Virginia Tech with a passion for Software Development and Machine Learning (write some cool key thing that you are)</p>
-                         What are your interests? write.
-                        One more line about you.</p>
+                        <p>I am a Graduate with a Master's Degree in Computer Engineering from Virginia Tech and a co-inventor of a <a href="{{ waste.html | absolute_url }}">Deep Learning</a> patent publication.
+                           My career began with Oracle as a Software Test Automation Engineer. I am keen on whipping up software projects and adepting to new technologies that bring solutions to some problems around us.
+                           I am also an avid LeetCoder; I love learning and implementing some neat algorithms that solve interesting challenges.
+                           Computational Creativity, the intersection of the Arts and Artificial Intelligence, intrigues me: I am excited to contribute to push the creative boundaries in computers.</p>
+                        <p>I care deeply about mental health, making environmentally sustainable choices and plants!</p>
                         <p>I am currently looking for full-time opportunities in Software Engineering! Check out my resume here:</p>
                         <div style="text-align: center;"><ul class="actions">
                             <li><a href="Shalini_Ragothaman_Resume.pdf" target="_blank" class="button special">Resume</a></li>
                         </ul></div>
-                        <p>My Tech stack:</p>                        
+                        <p>My Tech stack</p>                        
                         <div class="row">
                             <div class="4u 12u$(medium)">
                                     <ul> <!--Programming languages-->
-                                        <li>C++</li>
+                                        <li>C / C++</li>
                                         <li>R</li>
                                         <li>PyTorch</li>
                                         <li>Flask-RESTful</li>
@@ -69,7 +71,27 @@
                                     </ul>
                             </div>                    
                         </div>
-                        <p>TL;DR - </p>
+                        <p>TL;DR?</p>
+                        <code style="background-color: black;">C:\> Shalini.interests</code>
+                        <code style="background-color: black;">Software Engineering, C++ & Python Coding, Machine Learning, AI + Art</code>
+                        <p>Connect with me:</p>
+                        <div class="inner">
+                            <ul class="icons">
+                                {% if site.email_url %}
+                                <li><a href="mailto:{{ site.email_url }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+                                {% endif %}
+                                {% if site.linkedin_url %}
+                                <li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+                                {% endif %}
+                                {% if site.github_url %}
+                                <li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+                                {% endif %}
+                                {% if site.twitter_url %}
+                                <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                                {% endif %}
+                            </ul>
+                        </div>
+                
                     </dd>
                 </div>
                 </div>
@@ -82,11 +104,8 @@
                 </div>
             </div>
         </div>
-    </section>
 
-
-    <section>
-    <div class="inner" id="home-about">
+    <div class="inner">
         <header class="major">
             <h2 style="color: #4499a3;">My Timeline!</h2>
         </header>
@@ -113,7 +132,7 @@
             <li>
                 <i>September 2017 - June 2018</i> <br />
                 <bcolor>Software Test Engineer @Oracle</bcolor>
-                <p>work ex</p>
+                <p>Developed automation testing software, strategized and implemented test plans and contributed to all phases of the Software Test Life Cycle</p>
             </li>
             <li>
                 <i>August 2013 - August 2017</i> <br />

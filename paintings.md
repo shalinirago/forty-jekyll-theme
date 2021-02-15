@@ -2,7 +2,7 @@
 layout: projects
 title: A Web App that Interprets Paintings
 tile-description: An AI experiment intended to delve into a machine's perspective when interpreting paintings <br /> 
-description: Exploring Computational Creativity - A web app that generates sentences based on its analysis of a given input painting
+description: Exploring Computational Creativity - A web app that generates essays based on its analysis of a given input painting
 skills: PyTorch, ResNet-50, GPT-2, Flask, React
 link: 
 link_class:

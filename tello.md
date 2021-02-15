@@ -15,7 +15,7 @@ order: 3
 <div id="main">
 <section id = "two" class="spotlights">
 	<section>
-	<div class="inner">
+	<div class="inner" style="padding: 50px">
 	<span class="image main">
 		<img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/tello_desc.gif" alt="" data-position="center center" />
 		<figcaption><blockquote>Simulation of drones using Microsoft AirSim</blockquote></figcaption>
