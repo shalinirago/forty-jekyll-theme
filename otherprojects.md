@@ -15,7 +15,7 @@ order: 6
 <section id="two" class="spotlights">
 	<!--Deep Learning for Android-->
 	<section>
-		<div class="inner" style="padding: 50px"><span class="image main"><img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/cvapp.gif" alt="" data-position="center center" /></span>
+		<div class="inner" style="padding: 50px"><span class="image main"><img src="https://raw.githubusercontent.com/shalinirago/portfolio-imgs/main/cvapp.gif" alt="" data-position="center center" /></span>
 		<figcaption><blockquote>A demo of the deployed app</blockquote></figcaption></div> <!--Add appropriate image/gif (CV)-->
 		<div class="content">
 			<div class="inner" style="padding: 50px">

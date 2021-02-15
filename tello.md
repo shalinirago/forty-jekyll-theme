@@ -17,7 +17,7 @@ order: 3
 	<section>
 	<div class="inner" style="padding: 50px">
 	<span class="image main">
-		<img src="https://raw.githubusercontent.com/shalinirago/portfolio/main/tello_desc.gif" alt="" data-position="center center" />
+		<img src="https://raw.githubusercontent.com/shalinirago/portfolio-imgs/main/tello_desc.gif" alt="" data-position="center center" />
 		<figcaption><blockquote>Simulation of drones using Microsoft AirSim</blockquote></figcaption>
 	</span>
 	</div> 
